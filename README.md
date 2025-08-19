@@ -1,4 +1,5 @@
 # Gerenciador de Clientes em Java com Swing
 
-https://img.shields.io/github/stars/hidalgojunior
+![Static Badge](https://img.shields.io/badge/Arnaldo_Martins_Hidalgo_Junior)
+
 
